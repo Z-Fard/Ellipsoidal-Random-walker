@@ -10,6 +10,7 @@ modeling micro swimmers such as E.coli that it is similar to ellipsoidal particl
 
 In order to deeply understand the theory behinde it please read the attached pdf file (brief version of my master thesis).
 For the most relevant published paper check the link below
+
 https://www.science.org/doi/abs/10.1126/science.1130146
 
 
