@@ -9,6 +9,8 @@ transport and motion of anisotropic macromolecules in membranes and also for ran
 modeling micro swimmers such as E.coli that it is similar to ellipsoidal particles.
 
 In order to deeply understand the theory behinde it please read the attached pdf file (brief version of my master thesis).
+''Ellipsoidal_Particles_Diffusion_Motion''
+
 For the most relevant published paper check the link below
 
 https://www.science.org/doi/abs/10.1126/science.1130146
