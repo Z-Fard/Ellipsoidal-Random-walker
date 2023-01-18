@@ -4,7 +4,7 @@ clc
 % for larg number of ensembles turn off waitbar
 %hw = waitbar(0,'Please Wait ...'); % turn off waitbar
 
-%% Pre Allocations
+%Pre Allocations
 ns = 400; % Number of Steps
 ne = 1000; % Number of Ensembles
 interval = 50;
